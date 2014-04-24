@@ -9,7 +9,7 @@
     },
     "require": {
     },
-    "minimum-stability" : "dev",
+    "minimum-stability" : "stable",
     "autoload": {
         "psr-0": {
             "tdt\\json\\": "src/"
